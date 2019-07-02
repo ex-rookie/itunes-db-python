@@ -13,7 +13,7 @@ Enter file name:
 
 (Default is Library.xml)
 
-"trackdb.sqlite" should be generated
+Tracks should be listed along with other details and "trackdb.sqlite" should be generated
 
 Copy the Library XML file from iTunes directory to your project directory.
 
