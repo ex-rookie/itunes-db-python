@@ -29,6 +29,8 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 			<key>Name</key><string>03043555-00</string>
+			<key>Artist</key><string>Anthony</string>
+			<key>Album</key><string>EBS Training</string>			
 			<key>Kind</key><string>WAV audio file</string>
 			<key>Location</key><string>file:///Users/thunyina/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/03043555-00.wav</string>
 		</dict>
@@ -50,6 +52,8 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 			<key>Name</key><string>03295478-00</string>
+			<key>Artist</key><string>Anthony</string>
+			<key>Album</key><string>EBS Training</string>			
 			<key>Kind</key><string>WAV audio file</string>
 			<key>Location</key><string>file:///Users/thunyina/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/03295478-00.wav</string>
 		</dict>
@@ -70,6 +74,8 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 			<key>Name</key><string>EBS_203_Slide_1</string>
+			<key>Artist</key><string>Anthony</string>
+			<key>Album</key><string>EBS Training</string>			
 			<key>Kind</key><string>AAC audio file</string>
 			<key>Location</key><string>file:///Users/thunyina/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/EBS_203_Slide_1.m4a</string>
 		</dict>
@@ -90,6 +96,8 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 			<key>Name</key><string>EBS_203_Slide1</string>
+			<key>Artist</key><string>Anthony</string>
+			<key>Album</key><string>EBS Training</string>			
 			<key>Kind</key><string>AAC audio file</string>
 			<key>Location</key><string>file:///Users/thunyina/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/EBS_203_Slide1.m4a</string>
 		</dict>
@@ -110,6 +118,8 @@
 			<key>File Folder Count</key><integer>5</integer>
 			<key>Library Folder Count</key><integer>1</integer>
 			<key>Name</key><string>EBS_203_Slide4</string>
+			<key>Artist</key><string>Anthony</string>
+			<key>Album</key><string>EBS Training</string>			
 			<key>Kind</key><string>AAC audio file</string>
 			<key>Location</key><string>file:///Users/thunyina/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/EBS_203_Slide4.m4a</string>
 		</dict>
