@@ -47,7 +47,7 @@ def lookup(d, key):
 # Parse the XML to get the <dict> block of depth 3
 stuff = ET.parse(fname)
 all = stuff.findall('dict/dict/dict')
-print('Dict count: ', len(all))
+print('Item count: ', len(all))
 
 # Extract the required values using the lookup function
 for entry in all:
